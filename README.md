@@ -4,7 +4,8 @@ A sleek and responsive **Password Generator** built with **React** and **Tailwin
 
 ## 📸 Preview
 
-![Password Generator Screenshot](assets/screenshot.png)
+![App Interface](assets/password-generator.png)
+
 
 ---
 
